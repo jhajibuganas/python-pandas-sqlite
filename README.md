@@ -1,1 +1,1 @@
-# This is my learning exercises.
+# This is my learning exercise in my Python journey.
